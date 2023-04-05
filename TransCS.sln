@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TransCS", "TransCS.csproj", "{D9BAD73B-5C8E-46F3-86AF-B51239060CBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransCS_Tests", "..\TransCS_Tests\TransCS_Tests.csproj", "{4CA870ED-44F4-4F34-A7E3-1DA033816201}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9BAD73B-5C8E-46F3-86AF-B51239060CBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9BAD73B-5C8E-46F3-86AF-B51239060CBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9BAD73B-5C8E-46F3-86AF-B51239060CBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9BAD73B-5C8E-46F3-86AF-B51239060CBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CA870ED-44F4-4F34-A7E3-1DA033816201}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CA870ED-44F4-4F34-A7E3-1DA033816201}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CA870ED-44F4-4F34-A7E3-1DA033816201}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CA870ED-44F4-4F34-A7E3-1DA033816201}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF8BA485-1202-4FFA-BAD3-3A64454CCC6A}
+	EndGlobalSection
+EndGlobal
